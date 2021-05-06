@@ -1,5 +1,5 @@
 <h1 align="center">Cross-plateforme mobile application</h1>
-<p align="center"><i>Intership project create with Flutter framework</i></p>
+<p align="center"><i>Internship project create with Flutter framework</i></p>
 <div align="center">
 </div>
 <br>
